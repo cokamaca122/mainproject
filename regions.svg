@@ -1,0 +1,30 @@
+<svg id="svgOverlay" viewBox="0 0 4040 2820" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+    <rect id="region_ff0000" x="1730" y="1070" width="572" height="788" fill="rgba(255, 0, 0, 0.5)" onclick="window.location.href='index.html'" />
+    <rect id="region_ff0084" x="1442" y="540" width="520" height="320" fill="rgba(255, 0, 132, 0.5)" onclick="window.location.href='w1.html'" />
+    <rect id="region_fe00ff" x="1558" y="26" width="330" height="370" fill="rgba(254, 0, 255, 0.5)" onclick="window.location.href='w1a.html'" />
+    <rect id="region_ff00b7" x="1040" y="78" width="336" height="370" fill="rgba(255, 0, 183, 0.5)" onclick="window.location.href='w1b.html'" />
+    <rect id="region_d200ff" x="1998" y="92" width="362" height="350" fill="rgba(210, 0, 255, 0.5)" onclick="window.location.href='w1c.html'" />
+    <rect id="region_ad00ff" x="2368" y="316" width="376" height="454" fill="rgba(173, 0, 255, 0.5)" onclick="window.location.href='w1d.html'" />
+    <rect id="region_7300ff" x="2838" y="686" width="552" height="540" fill="rgba(115, 0, 255, 0.5)" onclick="window.location.href='w2.html'" />
+    <rect id="region_5500ff" x="2846" y="92" width="288" height="412" fill="rgba(85, 0, 255, 0.5)" onclick="window.location.href='w2a.html'" />
+    <rect id="region_2900ff" x="3380" y="54" width="264" height="322" fill="rgba(41, 0, 255, 0.5)" onclick="window.location.href='w2b.html'" />
+    <rect id="region_000aff" x="3470" y="456" width="512" height="426" fill="rgba(0, 10, 255, 0.5)" onclick="window.location.href='w2c.html'" />
+    <rect id="region_003dff" x="2634" y="1340" width="530" height="550" fill="rgba(0, 61, 255, 0.5)" onclick="window.location.href='w3.html'" />
+    <rect id="region_0062ff" x="3412" y="1494" width="502" height="288" fill="rgba(0, 98, 255, 0.5)" onclick="window.location.href='w3a.html'" />
+    <rect id="region_009cff" x="3572" y="980" width="428" height="484" fill="rgba(0, 156, 255, 0.5)" onclick="window.location.href='w3b.html'" />
+    <rect id="region_00cfff" x="748" y="1240" width="534" height="374" fill="rgba(0, 207, 255, 0.5)" onclick="window.location.href='w4.html'" />
+    <rect id="region_00edff" x="172" y="1088" width="372" height="476" fill="rgba(0, 237, 255, 0.5)" onclick="window.location.href='w4a.html'" />
+    <rect id="region_00fff4" x="606" y="600" width="490" height="440" fill="rgba(0, 255, 244, 0.5)" onclick="window.location.href='w5.html'" />
+    <rect id="region_00ffb9" x="58" y="324" width="342" height="314" fill="rgba(0, 255, 185, 0.5)" onclick="window.location.href='w5a.html'" />
+    <rect id="region_00ff7f" x="502" y="40" width="294" height="322" fill="rgba(0, 255, 127, 0.5)" onclick="window.location.href='w5b.html'" />
+    <rect id="region_00ff36" x="1066" y="1812" width="392" height="436" fill="rgba(0, 255, 54, 0.5)" onclick="window.location.href='w6.html'" />
+    <rect id="region_00ff11" x="544" y="1690" width="396" height="424" fill="rgba(0, 255, 17, 0.5)" onclick="window.location.href='w6a.html'" />
+    <rect id="region_1bff00" x="42" y="1914" width="494" height="418" fill="rgba(27, 255, 0, 0.5)" onclick="window.location.href='w6b.html'" />
+    <rect id="region_38ff00" x="436" y="2396" width="494" height="294" fill="rgba(56, 255, 0, 0.5)" onclick="window.location.href='w6c.html'" />
+    <rect id="region_5dff00" x="1863" y="1991" width="368" height="505" fill="rgba(93, 255, 0, 0.5)" onclick="window.location.href='w7.html'" />
+    <rect id="region_7aff00" x="1339" y="2322" width="410" height="383" fill="rgba(122, 255, 0, 0.5)" onclick="window.location.href='w7a.html'" />
+    <rect id="region_9fff00" x="2377" y="2366" width="320" height="369" fill="rgba(159, 255, 0, 0.5)" onclick="window.location.href='w7b.html'" />
+    <rect id="region_b5ff00" x="2780" y="2046" width="328" height="293" fill="rgba(181, 255, 0, 0.5)" onclick="window.location.href='w8.html'" />
+    <rect id="region_efff00" x="3123" y="2271" width="494" height="417" fill="rgba(239, 255, 0, 0.5)" onclick="window.location.href='w8a.html'" />
+    <rect id="region_ffc600" x="3407" y="1862" width="526" height="403" fill="rgba(255, 198, 0, 0.5)" onclick="window.location.href='w8b.html'" />
+</svg>
