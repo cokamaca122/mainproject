@@ -405,16 +405,16 @@ body.alwaysOpen #smallImage {
       font-size: 16px;
       table-layout: fixed; /* Ensures fixed widths */
     }
-    /* Set a fixed height for each cell so the bullet list can fill it */
-    table.dataframe th,
-    table.dataframe td {
-      border: 1px solid #ccc;
-      padding: 10px;
-      text-align: left;
-      background-color: rgba(255, 255, 255, 0.05);
-      vertical-align: middle;
-      height: 150px; /* Fixed height – adjust as needed */
-    }
+ table.dataframe th,
+table.dataframe td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.05);
+  vertical-align: middle;
+  min-height: 150px;  
+}
+
     /* Header and first column: same background, bold & centered text */
     table.dataframe th,
     table.dataframe td:first-child {
@@ -433,14 +433,16 @@ body.alwaysOpen #smallImage {
       margin-top: 40px;
     }
     /* Bullet list styling: use flexbox to distribute items evenly */
-    .bullet-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      height: 100%;       /* Fill the parent cell height */
-      display: flex;
-      flex-direction: column;
-    }
+.bullet-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /* Remove or comment out the next line */
+  /* height: 100%; */
+  display: flex;
+  flex-direction: column;
+}
+
     .bullet-list li {
       flex: 1;            /* Each item gets an equal share */
       display: flex;
